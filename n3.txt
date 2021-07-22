@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is local change to file
 This is second line change
+=======
+This is remote change to file
+>>>>>>> 9d42d97142d3450f8dc712f85d8564fb07be56a6
